@@ -1,2 +1,2 @@
 # pong
-A simple pong game written in pure javascript.
+A simple pong game written in vanilla javascript.
